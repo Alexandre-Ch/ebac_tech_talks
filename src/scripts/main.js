@@ -1,1 +1,1 @@
-console.log('Hello, EBAC Talks!');
+AOS.init();
